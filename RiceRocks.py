@@ -133,6 +133,10 @@ class Ship(pygame.sprite.Sprite):
                 # if collision is detected trigger explosion animation
                 self.collision()
 
+    """ get position on method """
+    def get_position(self):
+        return self.pos
+
     """ thrusters on method """
     def thrusters_on(self):
         self.thrust = True
@@ -313,7 +317,7 @@ Timer handler that spawns a rock
 """
 def rock_spawner():
     # spawn asteroid randomly
-    if len(asteroidGroup) < 12 and len(spaceshipGroup.sprites()) > 0:
+    if len(asteroidGroup) < 12 and len(spaceshipGroup.sprites()) > 0 and len(spaceshipGroup.sprites()):
         # randomize position of asteroid within the screen
         asteroid_spawn_pos = [random.randint(0, WIDTH), random.randint(0, HEIGHT)]
         # check to make sure that asteroid is spawning a few units away from the ship
