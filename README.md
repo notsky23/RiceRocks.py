@@ -20,7 +20,7 @@ How to play?<br>
 		- Press Left or A key to rotate the ship's orientation left<br>
 		- Press Right or D key to rotate the ship's orientation right<br>
 		- Press Spacebar key to shoot<br>
-	- Clicking on X(window close) - exits game<br>
+	- Clicking on X(window close) - exits game<br><br>
 
   
 ![image](https://user-images.githubusercontent.com/98131995/210928293-96b418be-0669-434d-ba6c-15770412aef2.png)<br><br>
