@@ -23,4 +23,4 @@ How to play?<br>
 	- Clicking on X(window close) - exits game<br><br>
 
   
-![image](https://user-images.githubusercontent.com/98131995/210928293-96b418be-0669-434d-ba6c-15770412aef2.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/224894222-9294f51b-f79c-4763-91f0-121cf95935e3.png)<br><br>
