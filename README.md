@@ -25,5 +25,6 @@ How to play?<br>
   
 ![image](https://user-images.githubusercontent.com/98131995/224897304-f04371c6-df01-4c4d-b2ce-1de403005cef.png)<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/224894453-4f459c75-ad79-46c7-a185-69352409d8d7.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/224899772-3eb4e03b-3bb1-4b3c-b6f2-a1f7caaa73ff.png)<br><br>
 ![image](https://user-images.githubusercontent.com/98131995/224897220-48c80551-88a7-4812-82ea-287b6912b37b.png)<br><br>
 
