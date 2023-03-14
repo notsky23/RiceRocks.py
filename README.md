@@ -8,9 +8,9 @@ How to play?<br>
   <t>- Click on the splash screen to play the game<br>
   <t>- Once in game:<br>
     <tt>- Press Up or W key to open ship thrusters and move forward<br>
-    <tt>- Press Left or A key to rotate the ship's orientation left<br>
-    <tt>- Press Right or D key to rotate the ship's orientation right<br>
-    <tt>- Press Spacebar key to shoot<br>
+    - Press Left or A key to rotate the ship's orientation left<br>
+    - Press Right or D key to rotate the ship's orientation right<br>
+    - Press Spacebar key to shoot<br>
   <t>- Clicking on X(window close) - exits game<br>
 
 2. Rules:<br>
