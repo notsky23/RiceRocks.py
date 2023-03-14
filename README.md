@@ -11,8 +11,6 @@ How to play?<br>
     - Press Left or A key to rotate the ship's orientation left<br>
     - Press Right or D key to rotate the ship's orientation right<br>
     - Press Spacebar key to shoot<br>
-    - Each asteroid shot down adds 100 points<br>
-    - Every 1000 pts makes the asteroid move faster<br>
   <t>- Clicking on X(window close) - exits game<br>
 
 2. Rules:<br>
