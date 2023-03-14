@@ -24,3 +24,4 @@ How to play?<br>
 
   
 ![image](https://user-images.githubusercontent.com/98131995/224894222-9294f51b-f79c-4763-91f0-121cf95935e3.png)<br><br>
+![image](https://user-images.githubusercontent.com/98131995/224894453-4f459c75-ad79-46c7-a185-69352409d8d7.png)<br><br>
