@@ -411,7 +411,14 @@ def main():
 
         # splash screen instance
         if splash:
-            splashScreen = screen.blit(splash_image, (WIDTH/3, HEIGHT/3))
+            splash_rect = splash_image.get_rect()
+
+            # center the splash image on the screen
+            screen_center = (WIDTH / 2, HEIGHT / 2)
+            splash_rect.center = screen_center
+
+            # draw the splash image on the screen
+            splashScreen = screen.blit(splash_image, splash_rect)
 
             # event handlers
             for event in pygame.event.get():
@@ -471,6 +478,13 @@ def main():
 
             # clicking on splash screen will enter a new game
             if lives <= 0:
+                # draw lives
+                font3 = pygame.font.SysFont("candara", 100)
+                label3 = font3.render("GAME OVER", True, WHITE)
+                # center the label on the screen
+                label_rect = label3.get_rect(center=(WIDTH/2, HEIGHT/2))
+                screen.blit(label3, label_rect)
+
                 # Set the restart time to be 2 seconds in the future
                 if restart_time is None:
                     # set the restart time
@@ -478,6 +492,7 @@ def main():
                 # check if the restart delay has elapsed
                 elif pygame.time.get_ticks() >= restart_time:
                     restart()
+                    restart_time = None
 
         #update display
         pygame.display.update()
