@@ -6,12 +6,12 @@ CodeSkulptor modification with Python using the Pygame library<br><br>
 How to play?<br>
 1. Legal moves/Button controls:<br>
 	- Click on the splash screen to play the game<br>
-  - Once in game:<br>
-  	- Press Up or W key to open ship thrusters and move forward<br>
-    - Press Left or A key to rotate the ship's orientation left<br>
-    - Press Right or D key to rotate the ship's orientation right<br>
-    - Press Spacebar key to shoot<br>
-  - Clicking on X(window close) - exits game<br>
+	- Once in game:<br>
+		- Press Up or W key to open ship thrusters and move forward<br>
+		- Press Left or A key to rotate the ship's orientation left<br>
+		- Press Right or D key to rotate the ship's orientation right<br>
+		- Press Spacebar key to shoot<br>
+	- Clicking on X(window close) - exits game<br>
 
 2. Rules:<br>
   - Win condition:
